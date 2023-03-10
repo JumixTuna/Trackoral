@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e4ee895a-eb14-42af-b931-994d8fb3d198"
+      }
+    },
+    "owner": "lordkemono"
   }
 }
