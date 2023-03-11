@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app!</Text>
       <Text>no</Text>
+      <Text style={styles.textoto}>POLLOLLON LLOPOPON</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -18,4 +19,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  textoto: {
+    
+  }
 });
